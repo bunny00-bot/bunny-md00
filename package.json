@@ -38,6 +38,8 @@
 
     "axios": "^1.9.0",
 
+    "adm-zip": "latest"
+
     "btch-downloader": "^4.0.8",
 
     "chalk": "^4.1.2",
