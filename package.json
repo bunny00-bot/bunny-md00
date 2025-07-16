@@ -38,7 +38,7 @@
 
     "axios": "^1.9.0",
 
-    "adm-zip": "latest"
+    "adm-zip": "latest",
 
     "btch-downloader": "^4.0.8",
 
